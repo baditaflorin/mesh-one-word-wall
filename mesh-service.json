@@ -1,0 +1,7 @@
+{
+  "$schema": "https://baditaflorin.github.io/mesh-common/mesh-service.schema.json",
+  "id": "mesh-one-word-wall",
+  "category": "Wellbeing",
+  "subcategory": "Social energy & check-ins",
+  "useCases": ["check-ins", "reflection", "teams"]
+}
